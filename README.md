@@ -1,12 +1,48 @@
-- 👋 Hi, I’m @dev123dev33
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">🎮 XOBE DEVELOPMENT 🎮</h1>
+<p align="center">Membuat game dan web keren pakai HTML, CSS, dan JavaScript!</p>
 
-<!---
-dev123dev33/dev123dev33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👨‍💻 Tentang Kami
+
+**XOBE DEVELOPMENT** adalah developer game & web kreatif yang terus berkembang.  
+Kami membuat berbagai proyek menggunakan:
+
+- ⚡ HTML  
+- 🎨 CSS  
+- 🧠 JavaScript  
+
+---
+
+## 🔗 Game Kami
+
+### 🧠 TebakX  
+Game tebak-tebakan buatan kami yang seru dan ringan dimainkan.  
+🔗 [Mainkan TebakX di sini]( https://dev123dev33.github.io/tebakx/)
+
+---
+
+## 📂 Lainnya
+
+Kami juga membuat game lain seperti:
+
+- 🌧️ Bayangan di Balik Hujan
+- 💻 Side Engine
+- ⚙️ GG OS
+- ...dan banyak lagi!
+
+📎 [Lihat semua repositori kami](https://github.com/dev123dev33?tab=repositories)
+
+---
+
+## 📞 Kontak
+
+
+-  Telegram: @xobedevelopment
+- ✉️ Email: xobedevelopment@email.com  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Terima+kasih+telah+berkunjung!;Follow+GitHub+kita+ya!;XOBE+DEVELOPMENT+AKTIF+SETIAP+HARI!+🔥" alt="Typing SVG" />
+</p>
