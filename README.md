@@ -43,6 +43,7 @@ Kami juga membuat game lain seperti:
 
 ---
 
-<p>align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Terima+kasih+telah+berkunjung!;Follow+GitHub+kita+ya!;XOBE+DEVELOPMENT+AKTIF+SETIAP+HARI!+🔥" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+XOBE+DEVELOPMENT!;Kami+membuat+game+dan+web+keren!;Follow+GitHub+kami+🔥" alt="Typing SVG" />
 </p>
+
