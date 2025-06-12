@@ -44,5 +44,6 @@ Kami juga membuat game lain seperti:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Terima+kasih+telah+berkunjung!;Follow+GitHub+kita+ya!;XOBE+DEVELOPMENT+AKTIF+SETIAP+HARI!+🔥" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Terima+kasih+telah+berkunjung!;Follow+GitHub+kita+ya!;XOBE+DEVELOPMENT+AKTIF+SETIAP+HARI!+🔥" alt="Typing SVG" />
+font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Terima+kasih+telah+berkunjung!;Follow+GitHub+kita+ya!;XOBE+DEVELOPMENT+AKTIF+SETIAP+HARI!+🔥" 
 </p>
