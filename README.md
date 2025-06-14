@@ -12,7 +12,21 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev123dev33&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dev123dev33?label=Followers&style=social" alt="Followers" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev123dev33.visitor-badge" alt="Visitor Counter" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev123dev33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev123dev33&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev123dev33&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
@@ -51,10 +65,18 @@ Kami juga membuat berbagai proyek keren lainnya:
 
 ---
 
+## 💻 Coding is Life
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding Animation" />
+</p>
+
+---
+
 ## 📞 Kontak
 
 - Telegram: [@xobedevelopment](https://t.me/xobedevelopment)  
-- Email: [xobedevt@email.com](mailto:xobedevt@email.com)
+- Email: [xobedev@email.com](mailto:xobedev@email.com)
 
 ---
 
