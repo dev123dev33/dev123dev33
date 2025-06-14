@@ -39,7 +39,7 @@ Kami juga membuat game lain seperti:
 
 
 -  Telegram: @xobedevelopment
-- ✉️ Email: xobedevelopment@email.com  
+- ✉️ Email: xobedevt@email.com  
 
 ---
 
