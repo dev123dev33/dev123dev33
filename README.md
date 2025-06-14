@@ -1,5 +1,5 @@
-<h1 align="center">🎮 XOBE DEVELOPMENT 🎮</h1>
-<p align="center">Membuat game dan web keren pakai HTML, CSS, JavaScript, dan Python!</p>
+<h1 align="center" style="font-size:48px;">🎮 XOBE DEVELOPMENT 🎮</h1>
+<p align="center" style="font-size:18px;">Kami membuat game dan web futuristik pakai HTML, CSS, JS, dan Python!</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
@@ -11,75 +11,80 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev123dev33&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dev123dev33?label=Followers&style=social" alt="Followers" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev123dev33.visitor-badge" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=dev123dev33&label=Profile+Views&color=00FFFF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dev123dev33?label=GitHub+Followers&style=social" />
+  <img src="https://badges.pufler.dev/visits/dev123dev33/dev123dev33" alt="Visitors" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev123dev33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+## ⚡ Real-Time GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev123dev33&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev123dev33&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev123dev33&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev123dev33&theme=highcontrast&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev123dev33&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 👨‍💻 Tentang Kami
+## 🧠 Tentang Kami
 
-**XOBE DEVELOPMENT** adalah developer game & web kreatif yang terus berkembang.  
-Kami membuat berbagai proyek menggunakan:
+XOBE DEVELOPMENT adalah tim pembuat game dan web kreatif.  
+Kami berfokus pada teknologi modern seperti:
 
-- ⚡ HTML  
-- 🎨 CSS  
-- 🧠 JavaScript  
-- 🐍 Python  
+- 🔥 HTML5
+- 🎨 CSS3
+- ⚙️ JavaScript
+- 🧪 Python
 
----
-
-## 🔗 Game Kami
-
-### 🧠 TebakX  
-Game tebak-tebakan buatan kami yang seru dan ringan dimainkan.  
-🔗 [Mainkan TebakX di sini](https://dev123dev33.github.io/tebakx/)
+Kami membuat proyek yang tidak hanya fungsional, tapi juga estetis dan futuristik.
 
 ---
 
-## 📂 Proyek Lainnya
+## 🎮 Game Unggulan
 
-Kami juga membuat berbagai proyek keren lainnya:
+### 🔹 TebakX  
+Game tebak-tebakan ringan dan seru  
+🔗 [Mainkan Sekarang](https://dev123dev33.github.io/tebakx/)
 
-- 🌧️ **Bayangan di Balik Hujan**
-- 💻 **Side Engine**
-- ⚙️ **GG OS**
+### 🔸 Lainnya:
+- 🌧️ Bayangan di Balik Hujan  
+- 💻 Side Engine  
+- ⚙️ GG OS  
 - ...dan banyak lagi!
 
-📎 [Lihat semua repositori kami](https://github.com/dev123dev33?tab=repositories)
+📁 [Lihat semua proyek](https://github.com/dev123dev33?tab=repositories)
 
 ---
 
-## 💻 Coding is Life
+## ✨ Animasi Koding
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460px" alt="Coding Animation">
 </p>
 
 ---
 
-## 📞 Kontak
+## 🌈 Efek Ketik Animasi
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+XOBE+DEVELOPMENT;Kami+membuat+web+%26+game+keren!;Follow+GitHub+kami+🔥" alt="Typing SVG" />
+</p>
+
+---
+
+## 📞 Kontak Kami
 
 - Telegram: [@xobedevelopment](https://t.me/xobedevelopment)  
 - Email: [xobedev@email.com](mailto:xobedev@email.com)
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+XOBE+DEVELOPMENT!;Kami+membuat+game+dan+web+keren!;Follow+GitHub+kami+🔥" alt="Typing SVG" />
-</p>
+> 🧠 Powered by kreativitas, teknologi, dan hasrat menciptakan masa depan!
