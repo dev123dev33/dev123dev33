@@ -64,7 +64,7 @@ Game tebak-tebakan ringan dan seru
 
 ---
 
-## ✨ Animasi Koding
+## ✨ coding is fun
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460px" alt="Coding Animation">
@@ -72,7 +72,7 @@ Game tebak-tebakan ringan dan seru
 
 ---
 
-## 🌈 Efek Ketik Animasi
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+XOBE+DEVELOPMENT;Kami+membuat+web+%26+game+keren!;Follow+GitHub+kami+🔥" alt="Typing SVG" />
@@ -87,4 +87,4 @@ Game tebak-tebakan ringan dan seru
 
 ---
 
-> 🧠 Powered by kreativitas, teknologi, dan hasrat menciptakan masa depan!
+> 🧠 Powered by Xobe Development
